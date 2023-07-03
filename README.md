@@ -1,7 +1,7 @@
 <h1 align="center">id/ devotedness</h1>
 <h3 align="center">Video Editor / Developer</h3>
 
-- 👨‍💻 I’m currently working on [Bunny-hop.net](https://bunny-hop.net/)
+<h3 align="center"> - 👨‍💻 I’m currently working on [Bunny-hop.net](https://bunny-hop.net/) </h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
